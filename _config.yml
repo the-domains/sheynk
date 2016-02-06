@@ -1,7 +1,7 @@
-name: sheynk
+name: Gary Sheynkman
 favicon: null
 layout_spectrum: 0.9124236430507153
-typography_spectrum: 0.7332933773286641
+typography_spectrum: 0.16904
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#3a3a3a'
+    - '#0f0f0f'
+    - '#7c7c7c'
+    - '#aeaeae'
+    - '#dddddd'
   brandStrength: 0.6922838238533586
   lightness: 0.16382345044985414
   saturation: 0.645918995840475
